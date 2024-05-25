@@ -1,5 +1,5 @@
 
-### Archive repo from my presonal account [@empratyush](https://github.com/empratyush) 
+### Archive repo from my personal account [@empratyush](https://github.com/empratyush) 
 
 #### Includes
 - projects from class
